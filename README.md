@@ -32,5 +32,7 @@ The collaborative filtering approach yielded promising results, offering persona
 
 In conclusion, the development of a product recommendation system using collaborative filtering techniques proved successful. By leveraging Amazon review data and employing advanced machine learning algorithms, we were able to generate personalized suggestions tailored to individual user preferences. The system holds potential for enhancing user engagement, improving shopping experiences, and ultimately driving customer satisfaction in the e-commerce landscape.
 
+Clone this project by :-https://github.com/393akashsharma/CSE508_Winter2024_A3_MT23012
+
 AKASH KUMAR
 MT23012
